@@ -1,5 +1,5 @@
 #QUIZ APPLICATIONS
-#@CODEAPLHA
+#@CODEALPHA
 
 class Question:
     def __init__(self, question, options, correct_answer):
